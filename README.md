@@ -1,2 +1,1 @@
-# TSOF
-TOSF.m3u
+k.m3u
